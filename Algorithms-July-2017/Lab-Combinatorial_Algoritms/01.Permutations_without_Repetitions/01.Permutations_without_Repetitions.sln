@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Permutations_without_Repetitions", "01.Permutations_without_Repetitions.csproj", "{8F6B719E-6BC6-4765-AB03-53F65BA34F1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Permutations_with_Repetitions", "..\02.Permutations_with_Repetitions\02.Permutations_with_Repetitions.csproj", "{0FA37C71-BA68-4C3E-8325-79F16B98933E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Variations_without_Repetitions", "..\03.Variations_without_Repetitions\03.Variations_without_Repetitions.csproj", "{ADA4BC60-AE8F-4EB7-823B-A341C3894963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Variations_with_Repetition", "..\04.Variations_with_Repetition\04.Variations_with_Repetition.csproj", "{5AC8303A-6E44-4D72-BF68-7B58BD2BEF93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Combinations_without_Repetition", "..\05.Combinations_without_Repetition\05.Combinations_without_Repetition.csproj", "{D2F4864F-CC00-4D5C-BF8F-C929BE8C424A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Combinations_with_Repetition", "..\06.Combinations_with_Repetition\06.Combinations_with_Repetition.csproj", "{96A754FF-F6BE-48E3-B0AC-AB5425568B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.N_Choose_K_Count", "..\07.N_Choose_K_Count\07.N_Choose_K_Count.csproj", "{ACE05264-72C4-4CD1-8AF8-2A3DB254A541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F6B719E-6BC6-4765-AB03-53F65BA34F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6B719E-6BC6-4765-AB03-53F65BA34F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6B719E-6BC6-4765-AB03-53F65BA34F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6B719E-6BC6-4765-AB03-53F65BA34F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA37C71-BA68-4C3E-8325-79F16B98933E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA37C71-BA68-4C3E-8325-79F16B98933E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA37C71-BA68-4C3E-8325-79F16B98933E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA37C71-BA68-4C3E-8325-79F16B98933E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA4BC60-AE8F-4EB7-823B-A341C3894963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA4BC60-AE8F-4EB7-823B-A341C3894963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA4BC60-AE8F-4EB7-823B-A341C3894963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA4BC60-AE8F-4EB7-823B-A341C3894963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC8303A-6E44-4D72-BF68-7B58BD2BEF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC8303A-6E44-4D72-BF68-7B58BD2BEF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC8303A-6E44-4D72-BF68-7B58BD2BEF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC8303A-6E44-4D72-BF68-7B58BD2BEF93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F4864F-CC00-4D5C-BF8F-C929BE8C424A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F4864F-CC00-4D5C-BF8F-C929BE8C424A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F4864F-CC00-4D5C-BF8F-C929BE8C424A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F4864F-CC00-4D5C-BF8F-C929BE8C424A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A754FF-F6BE-48E3-B0AC-AB5425568B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A754FF-F6BE-48E3-B0AC-AB5425568B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A754FF-F6BE-48E3-B0AC-AB5425568B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A754FF-F6BE-48E3-B0AC-AB5425568B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE05264-72C4-4CD1-8AF8-2A3DB254A541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE05264-72C4-4CD1-8AF8-2A3DB254A541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE05264-72C4-4CD1-8AF8-2A3DB254A541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE05264-72C4-4CD1-8AF8-2A3DB254A541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55C76C14-4296-4C61-8906-50FD396A3D92}
+	EndGlobalSection
+EndGlobal
