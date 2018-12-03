@@ -7,3 +7,4 @@
 3. [**Lab - Sorting and Searching**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Lab-Sorting_and_Searching)
 4. [**Exercise - Sorting and Searching**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Exercise-Sorting_and_Searching)
 5. [**Lab - Combinatorial Algoritms**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Lab-Combinatorial_Algoritms)
+6. [**Exercise - Combinatorial Algoritms**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Exercise-Combinatorial_Algoritms)
