@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Iterative_Permutations", "01.Iterative_Permutations.csproj", "{DA27E90D-D412-45A0-A371-01D0E9AEE07F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Iterative_Combinations", "..\02.Iterative_Combinations\02.Iterative_Combinations.csproj", "{7DAFD829-E453-494F-BDAE-05E5C0D051FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Iterative_Permutations_with_Repetition", "..\03.Iterative_Permutations_with_Repetition\03.Iterative_Permutations_with_Repetition.csproj", "{C8101557-E7B0-4104-958F-552E69F30B5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Snakes", "..\04.Snakes\04.Snakes.csproj", "{5C54C800-4E91-492F-B402-096AF44E2CDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Cubes", "..\05.Cubes\05.Cubes.csproj", "{9F7A1589-0054-4F3A-8F4B-6A766B22F5B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA27E90D-D412-45A0-A371-01D0E9AEE07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA27E90D-D412-45A0-A371-01D0E9AEE07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA27E90D-D412-45A0-A371-01D0E9AEE07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA27E90D-D412-45A0-A371-01D0E9AEE07F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DAFD829-E453-494F-BDAE-05E5C0D051FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DAFD829-E453-494F-BDAE-05E5C0D051FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DAFD829-E453-494F-BDAE-05E5C0D051FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DAFD829-E453-494F-BDAE-05E5C0D051FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8101557-E7B0-4104-958F-552E69F30B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8101557-E7B0-4104-958F-552E69F30B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8101557-E7B0-4104-958F-552E69F30B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8101557-E7B0-4104-958F-552E69F30B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C54C800-4E91-492F-B402-096AF44E2CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C54C800-4E91-492F-B402-096AF44E2CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C54C800-4E91-492F-B402-096AF44E2CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C54C800-4E91-492F-B402-096AF44E2CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F7A1589-0054-4F3A-8F4B-6A766B22F5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7A1589-0054-4F3A-8F4B-6A766B22F5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7A1589-0054-4F3A-8F4B-6A766B22F5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7A1589-0054-4F3A-8F4B-6A766B22F5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4FE5E98-9172-4CF1-A2DD-EBEAA86115FA}
+	EndGlobalSection
+EndGlobal
