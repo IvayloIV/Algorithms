@@ -10,3 +10,4 @@
 6. [**Exercise - Combinatorial Algoritms**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Exercise-Combinatorial_Algoritms)
 7. [**Lab - Greedy Algorithms**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Lab-Greedy_Algorithms)
 8. [**Exercise - Greedy Algorithms**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Exercise-Greedy_Algorithms)
+9. [**Lab - Dynamic Programming - Part I**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Lab-Dynamic_Programming_Part-I)
