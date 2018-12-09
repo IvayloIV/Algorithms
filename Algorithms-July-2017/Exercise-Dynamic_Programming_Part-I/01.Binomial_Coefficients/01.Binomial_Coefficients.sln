@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Binomial_Coefficients", "01.Binomial_Coefficients.csproj", "{4F55D973-F8F5-417B-88AB-B612FFC118F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Longest_Zig-Zag_Subsequence", "..\02.Longest_Zig-Zag_Subsequence\02.Longest_Zig-Zag_Subsequence.csproj", "{1EBD5962-2BAE-4335-A12E-9B9641D6AAF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Sum_with_Unlimited_Coins", "..\04.Sum_with_Unlimited_Coins\04.Sum_with_Unlimited_Coins.csproj", "{5798015F-BA40-4E2C-AE54-EC3B987A281E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Dividing_Presents", "..\03.Dividing_Presents\03.Dividing_Presents.csproj", "{8BCBB0BF-D23C-4804-A7BF-9220930B5C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Sum_with_Limited_Coins", "..\05.Sum_with_Limited_Coins\05.Sum_with_Limited_Coins.csproj", "{D565050A-91CE-42BB-BBD7-21B16A9F9536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F55D973-F8F5-417B-88AB-B612FFC118F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F55D973-F8F5-417B-88AB-B612FFC118F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F55D973-F8F5-417B-88AB-B612FFC118F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F55D973-F8F5-417B-88AB-B612FFC118F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EBD5962-2BAE-4335-A12E-9B9641D6AAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBD5962-2BAE-4335-A12E-9B9641D6AAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBD5962-2BAE-4335-A12E-9B9641D6AAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBD5962-2BAE-4335-A12E-9B9641D6AAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5798015F-BA40-4E2C-AE54-EC3B987A281E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5798015F-BA40-4E2C-AE54-EC3B987A281E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5798015F-BA40-4E2C-AE54-EC3B987A281E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5798015F-BA40-4E2C-AE54-EC3B987A281E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCBB0BF-D23C-4804-A7BF-9220930B5C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCBB0BF-D23C-4804-A7BF-9220930B5C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCBB0BF-D23C-4804-A7BF-9220930B5C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCBB0BF-D23C-4804-A7BF-9220930B5C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D565050A-91CE-42BB-BBD7-21B16A9F9536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D565050A-91CE-42BB-BBD7-21B16A9F9536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D565050A-91CE-42BB-BBD7-21B16A9F9536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D565050A-91CE-42BB-BBD7-21B16A9F9536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {106D958B-8502-4B07-B924-935217CC85BE}
+	EndGlobalSection
+EndGlobal
