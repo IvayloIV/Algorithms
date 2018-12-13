@@ -13,3 +13,4 @@
 9. [**Lab - Dynamic Programming - Part I**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Lab-Dynamic_Programming_Part-I)
 10. [**Exercise - Dynamic Programming - Part I**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Exercise-Dynamic_Programming_Part-I)
 11. [**Lab - Dynamic Programming - Part II**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Lab-Dynamic_Programming_Part-II)
+12. [**Exercise - Dynamic Programming - Part II**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Exercise-Dynamic_Programming_Part-II)
