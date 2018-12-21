@@ -17,3 +17,4 @@
 13. [**Lab - Graphs and Graph Algorithms**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Lab-Graphs_and_Graph_Algorithms)
 14. [**Exercise - Graphs and Graph Algorithms**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Exercise-Graphs_and_Graph_Algorithms)
 15. [**Lab - Advanced Graph Algorithms - Part I**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Lab-Advanced_Graph_Algorithms_Part-I)
+16. [**Exercise - Advanced Graph Algorithms - Part I**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Exercise-Advanced_Graph_Algorithms_Part-I)
