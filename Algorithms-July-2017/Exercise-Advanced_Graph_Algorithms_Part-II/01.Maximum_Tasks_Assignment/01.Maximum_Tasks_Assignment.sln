@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Maximum_Tasks_Assignment", "01.Maximum_Tasks_Assignment.csproj", "{DB761490-B370-4FFE-9179-0DFE7FCA166D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Find_Bi-Connected_Components", "..\02.Find_Bi-Connected_Components\02.Find_Bi-Connected_Components.csproj", "{1106041F-9129-4CBC-A104-1348D3616891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB761490-B370-4FFE-9179-0DFE7FCA166D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB761490-B370-4FFE-9179-0DFE7FCA166D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB761490-B370-4FFE-9179-0DFE7FCA166D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB761490-B370-4FFE-9179-0DFE7FCA166D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1106041F-9129-4CBC-A104-1348D3616891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1106041F-9129-4CBC-A104-1348D3616891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1106041F-9129-4CBC-A104-1348D3616891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1106041F-9129-4CBC-A104-1348D3616891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60354E72-712F-46E8-A97B-77F1FC1E6492}
+	EndGlobalSection
+EndGlobal
