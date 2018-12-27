@@ -22,3 +22,4 @@
 18. [**Exercise - Advanced Graph Algorithms - Part II**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Exercise-Advanced_Graph_Algorithms_Part-II)
 19. [**Lab - Problem Solving Methodology**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Lab-Problem_Solving_Methodology)
 20. [**Exercise - Problem Solving Methodology**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Exercise-Problem_Solving_Methodology)
+21. [**Lab - Problem Solving - Part I**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Lab-Problem_Solving_Part-I)
