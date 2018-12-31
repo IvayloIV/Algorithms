@@ -25,3 +25,7 @@
 21. [**Lab - Problem Solving - Part I**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Lab-Problem_Solving_Part-I)
 22. [**Exercise - Problem Solving - Part I**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Exercise-Problem_Solving_Part-I)
 23. [**Lab - Problem Solving - Part II**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-July-2017/Lab-Problem_Solving_Part-II)
+
+---
+## <b>Algorithms - Exams</b>
+1. [**Algorithms Exam - 15 May 2016**](https://github.com/IvayloIV/Algorithms/tree/master/Algorithms-Exams/Algorithms-Exam-15_May_2016)
